@@ -3,7 +3,7 @@
 ### Abstract:
 [//]: <> (Briefly describe what you built and its features. What problem is the app solving? How does this application solve that problem?)
 
-We built an application that allows users to view a poster with a random, encouraging image, title, and quote, generate their own posters, save posters, and view and delete saved posters. This entails that buttons have functionality to switch between views. Users are able to click on posters to store them in the saved posters section, and double-click on saved posters to delete them.
+We built an application that allows users to view a poster with a random, encouraging image, title, and quote, generate their own posters, save posters, and view and delete saved posters. This entails that buttons have functionality to switch between views. Users are able to click on posters to store them in the saved posters section, and double-click on saved posters to delete them. The site can be viewed here: https://soy-park.github.io/hang-in-there/
 
 ### Installation Instructions:
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
